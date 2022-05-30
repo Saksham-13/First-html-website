@@ -23,6 +23,12 @@ a{
 }
 
 
+.naruto{
+    border-radius: 100%;
 
+}
+img:hover{
+    filter: invert(100%);
+}
         
  
