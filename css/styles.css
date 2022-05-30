@@ -1,0 +1,28 @@
+
+body {
+            background-color: e9edc9 ;
+            font-size: 20px;
+}
+hr{
+            border-top-color: gray;
+            border-style: dotted none none ;
+            width: 50%; 
+            border-width: 10px;
+            text-align: left;
+            margin-left: 0px;
+            
+}
+h1{
+    color: 2a9d8f;
+}
+h3{
+    color: 2a9d8f;
+}
+a{
+    color:2a9d8f;
+}
+
+
+
+        
+ 
